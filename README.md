@@ -10,7 +10,7 @@ This repository analyzes telecommunication customer churn using a Logistic Regre
 <b>Key Points:</b><br/><br/>
 <ul>
 <li><b>Data Source:</b> Kaggle's telecommunication churn dataset.
-<li><b>Model Accuracy:</b> 92% accuracy on the test set.
+<li><b>Model Accuracy:</b> 81% accuracy on the test set.
 <li><b>Methodology:</b>
 <ul><li>Exploratory Data Analysis (EDA)
 <li>Feature Engineering
